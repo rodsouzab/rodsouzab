@@ -8,10 +8,9 @@
 Sou apaixonado por tecnologia e sempre busco aprender e criar soluções inovadoras. Tenho experiência com desenvolvimento de software, visualização de dados e modelagem de bancos de dados.
 
 ## 🏆 Habilidades
-- **Linguagens**: Python, JavaScript, C
-- **Banco de Dados**: Modelagem e Gestão
-- **Ferramentas**: Power BI, Testes de Software (QA)
-- **Outras Áreas**: Desenvolvimento de Jogos, Visualização de Grafos
+- **Linguagens**: HTML, CSS, JavaScrpt, Java, Python, C, SQL
+- **Ferramentas**: Django, Cypress, MySQL, PowerBI
+- **Competências Técnicas**: Análise e organização de Dados, Gestão de Projetos, Metodologias Ágeis, Desenvolvimento Web, Versionamento de Git
 
 ## 📂 Projetos
 🔹 **[Projeto TRAMA](https://github.com/rodsouzab/ProjetoManguetown)** - Desenvolvimento de software full stack com modelagem de banco de dados.  
@@ -24,5 +23,5 @@ Sou apaixonado por tecnologia e sempre busco aprender e criar soluções inovado
 
 ## 📫 Contato
 📧 rodrigosouza.souzabarbosa1@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/seu-linkedin/)  
+🔗 [LinkedIn](www.linkedin.com/in/rodrigo-souza-28682b2b7)  
 💻 [GitHub](https://github.com/rodsouzab)
