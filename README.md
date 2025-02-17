@@ -17,10 +17,6 @@ Sou apaixonado por tecnologia e sempre busco aprender e criar soluções inovado
 🔹 **[GRAPHIN](https://github.com/Matheuslh/Trabalho-grafos)** - Sistema de visualização e manipulação de grafos utilizando Python.  
 🔹 **[Detetive AED](https://github.com/rodsouzab/DetetiveAED)** - Jogo de tabuleiro "Detetive" implementado em C.
 
-## 🌍 Experiência e Voluntariado
-- Voluntário na ONG **Samaritanos**, auxiliando a população em situação de rua.  
-- Supervisor do **Grupo de Adolescentes Kerigma**, desenvolvendo liderança e trabalho em equipe.
-
 ## 📫 Contato
 📧 rodrigosouza.souzabarbosa1@gmail.com  
 🔗 [LinkedIn](www.linkedin.com/in/rodrigo-souza-28682b2b7)  
