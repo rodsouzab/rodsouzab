@@ -19,5 +19,5 @@ Sou apaixonado por tecnologia e sempre busco aprender e criar soluções inovado
 
 ## 📫 Contato
 📧 rodrigosouza.souzabarbosa1@gmail.com  
-🔗 [LinkedIn](www.linkedin.com/in/rodrigo-souza-28682b2b7)  
+🔗 [LinkedIn](https://www.linkedin.com/in/rodrigo-souza-28682b2b7)  
 💻 [GitHub](https://github.com/rodsouzab)
