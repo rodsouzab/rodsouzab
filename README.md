@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6e313599-dd26-4931-8189-94a87775f26b"  alt="Header Image" />
 </p>
-<h1 align="center">Hi! I'm Rodrigo! 👋</h1>
+<h1 align="center">Hi! I'm Rodrigo Souza! 👋</h1>
 
 ###
 
