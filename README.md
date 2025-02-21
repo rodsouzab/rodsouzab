@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6e313599-dd26-4931-8189-94a87775f26b" width="100%" alt="Header Image" />
+  <img src="https://github.com/user-attachments/assets/6e313599-dd26-4931-8189-94a87775f26b"  alt="Header Image" />
 </p>
-<h2 align="center">Hi! I'm Rodrigo! 👋</h2>
+<h1 align="center">Hi! I'm Rodrigo! 👋</h1>
 
 ###
 
@@ -60,5 +60,5 @@
 ###
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d496600c-e22c-4ee2-a3dc-8efccd448b2d" width="100%" alt="Header Image" />
+  <img src="https://github.com/user-attachments/assets/d496600c-e22c-4ee2-a3dc-8efccd448b2d" alt="Header Image" />
 </p>
