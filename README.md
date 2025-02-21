@@ -1,23 +1,57 @@
-# Rodrigo Souza Barbosa
+<h2 align="center">Hi! I'm Rodrigo! 👋</h2>
 
-🎓 **Bacharelando em Ciência da Computação** | *CESAR School*  
-💡 Interesse em *Análise de Dados, Desenvolvimento Full Stack, Banco de Dados e Testes Automatizados*  
-🌍 Localização: Recife, PE
+###
 
-## 🚀 Sobre Mim
-Sou apaixonado por tecnologia e sempre busco aprender e criar soluções inovadoras. Tenho experiência com desenvolvimento de software, visualização de dados e modelagem de bancos de dados.
+<p align="center">Computer Science Student  🖥️ | Brasil 🗺️</p>
 
-## 🏆 Principais Habilidades
-- **Linguagens**: HTML, CSS, JavaScript, Java, Python, C, SQL
-- **Ferramentas**: Django, Cypress, MySQL, PowerBI, Spring Boot
-- **Competências Técnicas**: Análise e organização de Dados, Gestão de Projetos, Metodologias Ágeis, Desenvolvimento Web, Versionamento de Git
+###
 
-## 📂 Projetos
-🔹 **[Projeto TRAMA](https://github.com/rodsouzab/ProjetoManguetown)** - Desenvolvimento de software full stack com modelagem de banco de dados.  
-🔹 **[GRAPHIN](https://github.com/Matheuslh/Trabalho-grafos)** - Sistema de visualização e manipulação de grafos utilizando Python.  
-🔹 **[Detetive AED](https://github.com/rodsouzab/DetetiveAED)** - Jogo de tabuleiro "Detetive" implementado em C.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rodsouzab&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rodsouzab&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-## 📫 Contato
-📧 rodrigosouza.souzabarbosa1@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/rodrigo-souza-28682b2b7)  
-💻 [GitHub](https://github.com/rodsouzab)
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-plain.svg" height="30" alt="rstudio logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="mailto:rodrigosouza.souzabarbosa1@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF79C6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/rodrigo-souza-28682b2b7" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=FF79C6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/rodsouzab/rodsouzab/output/snake.svg" alt="Snake animation" />
+
+###
