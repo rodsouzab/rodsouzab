@@ -7,9 +7,9 @@
 ## 🚀 Sobre Mim
 Sou apaixonado por tecnologia e sempre busco aprender e criar soluções inovadoras. Tenho experiência com desenvolvimento de software, visualização de dados e modelagem de bancos de dados.
 
-## 🏆 Habilidades
-- **Linguagens**: HTML, CSS, JavaScrpt, Java, Python, C, SQL
-- **Ferramentas**: Django, Cypress, MySQL, PowerBI
+## 🏆 Principais Habilidades
+- **Linguagens**: HTML, CSS, JavaScript, Java, Python, C, SQL
+- **Ferramentas**: Django, Cypress, MySQL, PowerBI, SpringBoot
 - **Competências Técnicas**: Análise e organização de Dados, Gestão de Projetos, Metodologias Ágeis, Desenvolvimento Web, Versionamento de Git
 
 ## 📂 Projetos
