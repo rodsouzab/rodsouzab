@@ -9,7 +9,7 @@ Sou apaixonado por tecnologia e sempre busco aprender e criar soluções inovado
 
 ## 🏆 Principais Habilidades
 - **Linguagens**: HTML, CSS, JavaScript, Java, Python, C, SQL
-- **Ferramentas**: Django, Cypress, MySQL, PowerBI, SpringBoot
+- **Ferramentas**: Django, Cypress, MySQL, PowerBI, Spring Boot
 - **Competências Técnicas**: Análise e organização de Dados, Gestão de Projetos, Metodologias Ágeis, Desenvolvimento Web, Versionamento de Git
 
 ## 📂 Projetos
